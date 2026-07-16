@@ -1,0 +1,7 @@
+STUDENT MANAGEMENT SYSTEM - FULL REPORT
+Generated: 2026-07-15 18:32:22.130072
+============================================================
+ID: S001 | Name: Mohemmed Shoaib Shahidi | Age: 21 | Course: B.Tech CSE
+ - PHYSICS: 95.0/100.0
+ - MATHS: 92.0/100.0
+ - ENGLISH: 98.0/100.0
