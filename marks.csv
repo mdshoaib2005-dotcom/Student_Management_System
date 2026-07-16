@@ -1,0 +1,9 @@
+student_id,subject,marks,max_marks
+S001,PHYSICS,95.0,100.0
+S001,MATHS,92.0,100.0
+S001,ENGLISH,98.0,100.0
+S002,Hifz,90.0,100.0
+S002,Tajwid,95.0,100.0
+S002,Aqeeda,92.0,100.0
+S002,Surf,89.0,100.0
+S002,Nahoo,88.0,100.0
